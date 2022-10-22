@@ -7,7 +7,7 @@ node {
    sh 'javac affichage.java'
 }
     stage('run') {
-        sh 'java afficahge'
+        sh 'java affichage'
 
 }
 }
